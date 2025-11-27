@@ -3,6 +3,11 @@
 
 Customer Shopping Behavior Analysis (End-to-End Data Analytics Project)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanju1208/Customer_Shopping_Behavior_Analysis/refs/heads/main/Dashboard.png" width="90%" style="border-radius: 10px; box-shadow: 0 0 10px #ccc;">
+</p>
+
+
 📌 Overview
 
 This is a complete End-to-End Data Analytics Project where I analyze customer shopping patterns using Python, PostgreSQL, SQL, and Power BI.
