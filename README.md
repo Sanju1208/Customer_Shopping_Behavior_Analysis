@@ -133,6 +133,3 @@ Data Analyst (Python | SQL | Power BI)
 GitHub: https://www.github.com/in/santhosh1208
 LinkedIn: https://www.linkedin.com/in/sagilisanthosh1208
 
-Average Purchase Amount
-
-Total Customers
