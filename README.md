@@ -2,6 +2,7 @@
   “End-to-end Customer Shopping Behavior Analysis using Python, PostgreSQL, and Power BI. Includes data cleaning, transformation, SQL insights, customer segmentation, revenue analysis, and interactive dashboards.”
 
 Customer Shopping Behavior Analysis (End-to-End Data Analytics Project)
+
 📌 Overview
 
 This is a complete End-to-End Data Analytics Project where I analyze customer shopping patterns using Python, PostgreSQL, SQL, and Power BI.
